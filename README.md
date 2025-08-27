@@ -1,3 +1,5 @@
+<img width="778" height="284" alt="image" src="https://github.com/user-attachments/assets/f0e8035a-c3f0-443b-9054-a51c377de143" />
+
 Welcome to HAxis, the simple, yet best programming language made out of Haxe!
 HAxis is a basic programing language / REPL created by me. HAxis can do many things, including:
 Printing text,
