@@ -26,6 +26,7 @@ View the contents of the .hx file, and copy it. Then go to a Haxe online compile
 
 Current HAxis version: ```[3.25]```
 
+(HAxis will run better if you download Haxe from https://haxe.org)
 DO NOT EDIT, CHANGE, OR CLAIM HAxis AS YOUR OWN.
 
 Feel free to contact me at black.hole.of.nothingness@gmail.com
