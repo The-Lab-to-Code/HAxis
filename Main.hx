@@ -1,6 +1,6 @@
 import Sys;
 
-class HelloWorld {
+class Main {
 	static function main() {
 		Sys.println("Welcome to HAxis Beta Edition 3.25");
 		Sys.println("Available Functions: ");
