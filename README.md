@@ -11,7 +11,7 @@ Here is the steps on how to run HAxis.
 
 1. The VSCode way.
 
-Requirements: Haxe Toolkit for VSCode, VSCode (latest model)
+Requirements: Haxe Toolkit for VSCode [REQUIRED], VSCode (latest model) [REQUIRED], Haxe (latest version) [REQUIRED]
 
 
 First, you make a folder in your files section. Name it anything. Then, download this ZIP file, extract the contents, and put the .hx and the .hxml in the folder. (NOTE: Do not directly put the ZIP into the folder. Only put the .hx and the .hxml). Next, go to VSCode, and insert the folder in. You should see the programming contents appearing. Save both files, the .hx and the .hxml. (NOTE: The .hx will NOT work without the .hxml).
@@ -26,8 +26,6 @@ View the contents of the .hx file, and copy it. Then go to a Haxe online compile
 
 Current HAxis version: ```[3.25]```
 
-
-(HAxis will run better if you download Haxe from https://haxe.org)
 
 DO NOT EDIT, CHANGE, OR CLAIM HAxis AS YOUR OWN.
 
